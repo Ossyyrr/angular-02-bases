@@ -1,5 +1,15 @@
 ng serve
 
+para hacer el build:
+
+ng build
+
+dist/bases/browser -> Mover browser a la raiz del proyecto y llamarla docs.
+
+subir commit a main y se despliega automaticamente en github pages
+
+!!!! También puedo usar el comando personalizado en el package.json -> npm run build:deploy
+
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
